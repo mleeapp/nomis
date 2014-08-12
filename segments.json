@@ -1,0 +1,12 @@
+{
+    "debug": "on",
+    "segment": {
+        "balance" : {
+            "min": 5000,
+            "max": 10000
+        },
+        "term":  36,
+        "region":  "California",
+        "originDate":  "Apr,2014"         
+    }
+}
